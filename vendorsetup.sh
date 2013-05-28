@@ -34,3 +34,4 @@ add_lunch_combo aokp_umtsspyder-userdebug
 add_lunch_combo aokp_vibrantmtd-userdebug
 add_lunch_combo aokp_vs920-userdebug
 add_lunch_combo aokp_yuga-userdebug
+add_lunch_combo aokp_d710-userdebug

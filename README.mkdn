@@ -9,7 +9,7 @@ Please read the [AOSP building instructions](http://source.android.com/source/in
 
 Initialize
 
-    repo init -u https://github.com/AOKP/platform_manifest.git -b jb-mr1
+    repo init -u https://github.com/EpicAOKP/platform_manifest.git -b jb-mr1
 
 Run the following to sync the source
 
