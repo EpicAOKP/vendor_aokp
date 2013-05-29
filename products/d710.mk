@@ -11,7 +11,7 @@ $(call inherit-product, vendor/aokp/configs/cdma.mk)
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/d710
 
 # Setup device specific product configuration.
-PRODUCT_DEVICE := D710
+PRODUCT_DEVICE := d710
 PRODUCT_NAME := aokp_d710
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := SPH-D710
@@ -24,5 +24,5 @@ PRODUCT_PACKAGES += \
     Thinkfree
 
 PRODUCT_COPY_FILES += \
-   vendor/aokp/prebuilt/bootanimation/bootanimation_480_800.zip:system/media/bootanimation-alt.zip
+   vendor/aokp/prebuilt/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
